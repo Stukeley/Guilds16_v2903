@@ -729,7 +729,7 @@ NR	FILENR	ID	SYMBOL	USE	TRACE	RU	PL
 7390	79	86306	B_KILLINLOCATION	CONCATTEXT	PRINTSCREEN.PAR0	\nЛощина	\nKotlina
 7393	79	86313	B_KILLINLOCATION	CONCATTEXT	PRINTSCREEN.PAR0	\nОстров испытания	\nWyspa próby
 7759	81	86682	B_COUNTDEADMONSTER	CONCATSTRINGS.PAR1	CONCATMULTISTRINGS.SSTRING1	\nКрысолюдов:	\nSzczury: 
-7811	84	86769	B_SCGETTREASURE_S1	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я нашел тайник Хако. Нужно не забыть расплатиться с Гроном.	Znalazłem skrytkę Hako. Muszę pamiętać, by zapłacić Gromowi.
+7811	84	86769	B_SCGETTREASURE_S1	B_LOGENTRY.ENTRY	LOG_ADDENTRY.PAR1	Я нашел тайник Хако. Нужно не забыть расплатиться с Гроном.	Znalazłem skrytkę Hako. Muszę pamiętać, by zapłacić Gronowi.
 7851	103	87351	B_SHIELDOVERLAYCHANGE_EQUIP	PRINTCENTER._TEXT_	PRINTSCREEN.PAR0	Нет необходимого навыка!	Brak wymaganej umiejętności!
 7855	103	87496	EQUIP_ARSENALMOD_WEAPON	C_ITEM.TEXT[3]	C_ITEM.TEXT	Из пула Арсенал мода	Z moda Arsenał
 7859	104	87506	EQUIP_HELMET_MIL_M	PRINTSCREEN.PAR0	PRINTSCREEN.PAR0	Бонус стиляги!	Bonus za styl!
